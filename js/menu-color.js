@@ -15,7 +15,7 @@
 $(function(){
     $(window).scroll(function(){
         if($(this).scrollTop() > 100) {
-            $('#topbar, .cart-label').fadeOut('slow');
+            $('#topbar, .cart-label').fadeOut('fast');
             $('.logo img')
                 .attr('src','img/logo.png');
         }
