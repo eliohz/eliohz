@@ -20,7 +20,7 @@ $(function(){
                 .attr('src','img/logo.png');
         }
         if($(this).scrollTop() < 100) {
-            $('#logo, #topbar, .cart-label').fadeIn('slow');
+            $('#logo, #topbar, .cart-label').fadeIn('fast');
             $('.logo img')
                 .attr('src','img/logo-light.png');
         }
