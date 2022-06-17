@@ -1,7 +1,7 @@
 // Change Color Navbar Elements on Scroll
 
    $(window).scroll(function(){
-    if ($(this).scrollTop() > 100) {
+    if ($(this).scrollTop() > 350) {
        $('.icon-bar').addClass('opaque');
        $('.navbar-brand img').attr('src', 'img/logo-light.png');
     } else {
@@ -14,7 +14,7 @@
 
 $(function(){
     $(window).scroll(function(){
-        if($(this).scrollTop() > 100) {
+        if($(this).scrollTop() > 200) {
             $('#topbar, .cart-label').fadeOut('slow');
             $('.logo img')
                 .attr('src','img/logo.png');
