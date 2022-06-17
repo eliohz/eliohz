@@ -14,12 +14,12 @@
 
 $(function(){
     $(window).scroll(function(){
-        if($(this).scrollTop() > 2000) {
+        if($(this).scrollTop() > 100) {
             $('#topbar, .cart-label').fadeOut('slow');
             $('.logo img')
                 .attr('src','img/logo.png');
         }
-        if($(this).scrollTop() < 2000) {
+        if($(this).scrollTop() < 100) {
             $('#logo, #topbar, .cart-label').fadeIn('fast');
             $('.logo img')
                 .attr('src','img/logo-light.png');
