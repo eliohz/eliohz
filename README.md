@@ -1,5 +1,3 @@
-# Welcome to My GitHub Profile 👋
-
 ![Header](github-header-image.png)
 
 ## About Me 📝
