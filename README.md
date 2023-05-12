@@ -1,19 +1,19 @@
-# Welcome to My GitHub Profile 👋
+## Welcome to My GitHub Profile 👋
 
 ![Header](github-header-image.png)
 
-## About Me 📝
+# About Me 📝
 
 Hey there! My name is Elio, and I'm an 18-year-old aspiring software developer. I'm passionate about coding and sharing my knowledge with others. I'm currently exploring various programming languages and frameworks to expand my skill set.
 
-## 🛠️ Skills & Technologies
+# 🛠️ Skills & Technologies
 
 - **Languages:** Python, Bash, YAML, C++, (and trying to learn more)
 - **Web Development:** HTML5, CSS3, Bootstrap, NodeJS
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, VSCode, Docker, Kubernetes
 
-## 💆 Interests
+# 💆 Interests
 - **OpenSource**
 - **Cybersecurity**
 - **Linux**
