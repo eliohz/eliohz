@@ -22,7 +22,6 @@ Hey there! My name is Elio, and I'm an 18-year-old aspiring software developer. 
 **and way more..**
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=eliohz&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eliohz&theme=dark&hide_border=false)<br/>
 
 Feel free to explore my repositories and give feedback. Don't forget to ⭐️ the projects you like! 😄
