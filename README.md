@@ -4,10 +4,6 @@
 
 Hey there! My name is Elio, and I'm an 18-year-old aspiring software developer. I'm passionate about coding and sharing my knowledge with others. I'm currently exploring various programming languages and frameworks to expand my skill set.
 
-Currently listening to:<br>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=elioheinz2004&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-
 ## 🛠️ Skills & Technologies
 
 - **Languages:** Python, Bash, YAML, C++, (and trying to learn more)
