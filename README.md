@@ -2,7 +2,7 @@
 
 ## About Me 📝
 
-Hey there! My name is Elio, and I'm an 18-year-old aspiring software developer. I'm passionate about coding and sharing my knowledge with others. I'm currently exploring various programming languages and frameworks to expand my skill set.
+Hey there! My name is Elio, and I'm an 19-year-old software developer. I'm passionate about coding and sharing my knowledge with others. I'm currently exploring various programming languages and frameworks to expand my skill set.
 
 ## 🛠️ Skills & Technologies
 
