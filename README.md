@@ -1,6 +1,6 @@
 # Welcome to my GitHub
 
 🔒 Cybersecurity student at HSLU.  
-⚙️ Interested in **system hardening**, **automation**, and **secure architecture design**.  
+⚙️ Interested in **anything** but Windows.  
 💻 Exploring, breaking (ethically), and building stronger systems.  
-🐧 Proud Ubuntu user.  
+🐧 Ubuntu user.  
