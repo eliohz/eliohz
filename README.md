@@ -7,8 +7,6 @@
 
 ## 🚀 GitHub Overview  
 
-## 🚀 GitHub Overview  
-
 <div align="left">
 
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=eliohz&show_icons=true&hide=prs,contribs&count_private=true&theme=dark" />
@@ -17,11 +15,11 @@
   <br>
 
   <a href="https://github.com/MrKrishnaAgarwal/readme-components-github">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eliohz&theme=dark&hide_border=true" 
-         style="border: 1px solid white; border-radius: 5px; padding: 5px;" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eliohz&theme=dark&border=ffffff" />
   </a>  
 
 </div>
+
 
 ![Sleep Deprived Dev](https://img.shields.io/badge/Sleep-Deprived-red)
 ![Bug Fixer](https://img.shields.io/badge/Bug%20Fixer-0%25-brightgreen)
