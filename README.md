@@ -5,6 +5,11 @@
 💻 Exploring, breaking (ethically), and building stronger systems.  
 🐧 Ubuntu user.  
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=eliohz&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliohz&layout=compact&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eliohz&theme=github-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eliohz&theme=radical)
+
 ![Sleep Deprived Dev](https://img.shields.io/badge/Sleep-Deprived-red)
 ![Bug Fixer](https://img.shields.io/badge/Bug%20Fixer-0%25-brightgreen)
 ![Stack Overflow Addict](https://img.shields.io/badge/StackOverflow-My%20IDE-blue)
