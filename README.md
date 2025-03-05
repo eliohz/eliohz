@@ -5,10 +5,15 @@
 💻 Exploring, breaking (ethically), and building stronger systems.  
 🐧 Ubuntu user.  
 
-## 🚀 GitHub Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliohz&show_icons=true&hide=prs,contribs&count_private=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliohz&layout=compact&theme=dark)
-[![Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eliohz&theme=dark&hide_border=true)](https://github.com/MrKrishnaAgarwal/readme-components-github)
+## 🚀 GitHub Overview  
+
+<div align="center">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliohz&show_icons=true&hide=prs,contribs&count_private=true&theme=dark)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliohz&layout=compact&theme=dark)  
+
+  [![GitHub Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eliohz&theme=dark&hide_border=true)](https://github.com/MrKrishnaAgarwal/readme-components-github)  
+</div>
+
 
 ### 🚀 **How to Use**
 - Copy & paste this into your `README.md`
