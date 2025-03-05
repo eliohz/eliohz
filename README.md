@@ -6,32 +6,15 @@
 🐧 Ubuntu user.  
 
 ## 🚀 GitHub Overview
-
-### 🌑 **Dark Mode Themes Comparison**
-
-#### 🟣 **Radical**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliohz&show_icons=true&hide=prs,contribs&count_private=true&theme=radical)
-
-#### 🟢 **Merko**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliohz&show_icons=true&hide=prs,contribs&count_private=true&theme=merko)
-
-#### 🔵 **Blueberry**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliohz&show_icons=true&hide=prs,contribs&count_private=true&theme=blueberry)
-
-#### 🟠 **Omni**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliohz&show_icons=true&hide=prs,contribs&count_private=true&theme=omni)
-
-#### 🔴 **Dark**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliohz&show_icons=true&hide=prs,contribs&count_private=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliohz&layout=compact&theme=dark)
+![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=eliohz&theme=dark)
 
-#### 🟡 **Gruvbox**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliohz&show_icons=true&hide=prs,contribs&count_private=true&theme=gruvbox)
+### 🚀 **How to Use**
+- Copy & paste this into your `README.md`
+- Everything is **fully dark mode** 🌑 ✅
 
-#### 🟣 **Tokyonight**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliohz&show_icons=true&hide=prs,contribs&count_private=true&theme=tokyonight)
-
-#### 🖤 **High Contrast**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliohz&show_icons=true&hide=prs,contribs&count_private=true&theme=highcontrast)
+Let me know if you need any changes! 🔥🔥
 
 
 ![Sleep Deprived Dev](https://img.shields.io/badge/Sleep-Deprived-red)
