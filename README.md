@@ -14,20 +14,11 @@
 
   <br>
 
-  <table>
-    <tr>
-      <td style="border: 1px solid white; padding: 5px; border-radius: 5px;">
-        <a href="https://github.com/MrKrishnaAgarwal/readme-components-github">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eliohz&theme=dark&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/MrKrishnaAgarwal/readme-components-github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eliohz&theme=dark&hide_border=true" />
+  </a>  
 
 </div>
-
-
-
 
 ![Sleep Deprived Dev](https://img.shields.io/badge/Sleep-Deprived-red)
 ![Bug Fixer](https://img.shields.io/badge/Bug%20Fixer-0%25-brightgreen)
